@@ -1,6 +1,8 @@
 # emacs-conf
 My Emacs configuration
 
+![alt tag](emacs_screenshot.jpg)
+
 ## Copyright
 
 The MIT License (MIT)
